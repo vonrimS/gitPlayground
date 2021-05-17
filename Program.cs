@@ -10,7 +10,7 @@ namespace gitPlayground
     {
         static void Main(string[] args)
         {
-            String flag = "F L A G";
+            String flag = "f_l_a_g";
         }
     }
 }
