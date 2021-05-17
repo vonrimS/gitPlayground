@@ -10,7 +10,7 @@ namespace gitPlayground
     {
         static void Main(string[] args)
         {
-            String flag = "FLAG of THE country";
+            String flag = "f_l_a_g";
         }
     }
 }
